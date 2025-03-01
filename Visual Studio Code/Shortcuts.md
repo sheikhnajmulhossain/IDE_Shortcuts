@@ -1,12 +1,5 @@
 # Visual Studio Code Keyboard Shortcuts for Windows
 
-Here’s a handy reference image with most of the common shortcuts:
-
-![VS Code Shortcuts Reference](./vscode_shortcuts_windows.png "VS Code Shortcuts")
-
-Below is a textual version of those shortcuts in table form, which you can copy or adapt as needed.
-
----
 
 ## General
 | Shortcut                   | Action / Command            | Description                                       |
